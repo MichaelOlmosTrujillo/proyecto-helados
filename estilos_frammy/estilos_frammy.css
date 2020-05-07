@@ -319,3 +319,9 @@ h1 {
     left: 100px;
     top: 100px;
 }
+
+.carrusel-card {
+    padding: 10px;
+    border: solid 1px black;
+    margin: 10px;
+}

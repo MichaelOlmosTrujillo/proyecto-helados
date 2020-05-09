@@ -22,3 +22,11 @@
   padding: 0 auto;
   border: 100px;
 }
+.productos-carrusel{
+  width: 50%;
+  margin: 15px;
+  padding: 20px;
+  background-color: darkslategray;
+  height: 40%;
+ /* height: 60px;*/
+}
